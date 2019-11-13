@@ -54,5 +54,7 @@ exports.main = async (event, context) => {
 
 ##### 项目启动
 > npm install
+
 > npm run dev
+
 > dist/wx 目录 在开发者工具中打开即可
