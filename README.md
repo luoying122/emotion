@@ -4,6 +4,19 @@
 ##### 技术点
 主要基于mpvue开发,vue开发多的话，走小程序的时候,mpvue会是很不错的上手选择。可以用vue的语法去写小程序。
 
+##### 数据库说明
+| 名称          | 类型      | 默认值   | 描述            |
+| ----------- | ------- | ----- | ------------- |
+| user_id     | String  | 0     | 云函数获取用户openid |
+| user_name   | String  | null  | 用户授权获取        |
+| user_avatar | String  | null  | 用户授权获取        |
+| text        | String  | null  | 编辑器获取         |
+| delta       | String  | null  | 编辑器获取         |
+| html        | String  | null  | 编辑器获取         |
+| is_recycle  | Boolean | false | 是否移动到回收站      |
+| is_favor    | Boolean | false | 是否收藏          |
+
+
 ##### vuex
 全局变量可以用vuex代替小程序的gloabalData,当前项目小的话可以不用。
 
