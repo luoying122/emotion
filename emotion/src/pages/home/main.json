@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#2b9ef2",
+  "navigationBarTextStyle": "white",
+  "backgroundColor": "#ffffff",
+  "backgroundTextStyle": "light",
+  "usingComponents":{
+    "i-button":"../../components/button/index"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/emotion/main",
+    "pages/addEmotion/main",
+    "pages/home/main",
+    "pages/taber/trend/main",
+    "pages/login/main",
+    "pages/taber/recycle/main",
+    "pages/taber/draft/main",
+    "pages/taber/favor/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "emotion",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+    "list": [
+      {
+        "text": "心情簿",
+        "pagePath": "pages/emotion/main",
+        "iconPath": "static/tabs/emotion-gray.png",
+        "selectedIconPath": "static/tabs/emotion-blue.png"
+      },
+      {
+        "text": "首页",
+        "pagePath": "pages/home/main",
+        "iconPath": "static/tabs/home-gray.png",
+        "selectedIconPath": "static/tabs/home-blue.png"
+      }
+    ],
+    "items": [
+      {
+        "name": "心情簿",
+        "pagePath": "pages/emotion/main",
+        "icon": "static/tabs/emotion-gray.png",
+        "activeIcon": "static/tabs/emotion-blue.png"
+      },
+      {
+        "name": "首页",
+        "pagePath": "pages/home/main",
+        "icon": "static/tabs/home-gray.png",
+        "activeIcon": "static/tabs/home-blue.png"
+      }
+    ],
+    "position": "bottom"
+  },
+  "cloud": true
+}

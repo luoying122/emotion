@@ -1,0 +1,128 @@
+{
+  "id": "1436631",
+  "name": "emotion",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "584244",
+      "name": "右箭头",
+      "font_class": "iconfonticonfonti2copycopy",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "857037",
+      "name": "笔记",
+      "font_class": "biji",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "866504",
+      "name": "伤心",
+      "font_class": "shangxin",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1120832",
+      "name": "首页",
+      "font_class": "shouyeshouye",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6027494",
+      "name": "回收站",
+      "font_class": "huishouzhan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "6056149",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "7150074",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "8289027",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e870",
+      "unicode_decimal": 59504
+    },
+    {
+      "icon_id": "8319349",
+      "name": "草稿箱-查看认领记录",
+      "font_class": "caogaoxiang-chakanrenlingjilu",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "9225435",
+      "name": "失望表情",
+      "font_class": "shiwangbiaoqing",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "10048831",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "10582820",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "11348862",
+      "name": "a",
+      "font_class": "a",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11348892",
+      "name": "b",
+      "font_class": "b",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "11349036",
+      "name": "form",
+      "font_class": "form",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "11349048",
+      "name": "i",
+      "font_class": "i",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11349291",
+      "name": "u",
+      "font_class": "u",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    }
+  ]
+}

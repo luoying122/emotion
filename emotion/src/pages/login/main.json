@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "授权登录",
+  "navigationBarBackgroundColor": "#2b9ef2",
+  "navigationBarTextStyle": "white",
+  "backgroundColor": "#ffffff",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh":true,
+  "usingComponents":{
+    "i-button":"../../components/button/index"
+  }
+}
